@@ -1,6 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/ecranston/Projects/enlighten'
 let g:netrw_dirhist_2='/Users/ecranston/Projects/enlighten/app'
 let g:netrw_dirhist_3='/Users/ecranston/Projects/enlighten/app/controllers'
 let g:netrw_dirhist_4='/Users/ecranston/Projects/enlighten'
+let g:netrw_dirhist_5='/Users/ecranston/playground/canvas_playground'
+let g:netrw_dirhist_6='/Users/ecranston/.vim/bundle'
+let g:netrw_dirhist_7='/Users/ecranston/Projects/enlighten'
